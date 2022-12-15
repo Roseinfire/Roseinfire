@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Roseinfire
 - 👀 I’m interested in ... Math 
 - 🌱 I’m currently learning ... Shell Script
-- 💞️ I’m looking to collaborate on ... Design & JavaScript 
 - 📫 How to reach me ... via email: 14box14@gmail.com
 
 <!---
