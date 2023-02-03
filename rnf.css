@@ -1,9 +1,16 @@
-    
+
+  #paper {
+    border-radius: 30px; 
+    background-color: white; 
+    padding: 30px;
+    position: static;
+    }
+       
    .floating {
       width: 55%;
       margin-left: 350px;
       margin-top: -300px;
-      color: rgb(196, 140, 0);
+      color: rgb(148, 106, 2);
     }
     
    .icon {
@@ -18,3 +25,21 @@
   .header {
        height: 450px;
     }
+   
+  .link {
+      width: 20px; 
+      float: right;
+    } 
+   
+  .butt {
+    vertical-align: middle;
+    margin-top: 30px;
+    text-align: center;
+    width: 130px;
+    height: 20px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    float: left;
+    }
+    
