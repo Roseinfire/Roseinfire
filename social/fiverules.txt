@@ -1,0 +1,5 @@
+don't use frames and shadow content
+don't autoplay videos
+don't use advertisiments
+don't use local storage
+don't make registration requare
